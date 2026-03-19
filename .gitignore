@@ -1,0 +1,10 @@
+# Config sensible
+src/db.php
+src/config.php
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
